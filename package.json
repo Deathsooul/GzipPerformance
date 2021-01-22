@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "gzip": "^0.1.0",
+    "react-iframe": "^1.8.0"
+  },
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
